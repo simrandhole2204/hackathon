@@ -1,0 +1,18 @@
+/* Footer.css */
+.footer {
+    background-color: #333; /* Dark background for the footer */
+    color: #fff; /* White text color */
+    text-align: center; /* Center align text */
+    padding: 1rem; /* Add padding */
+    position: fixed; /* Fix the footer at the bottom */
+    bottom: 0; /* Align to the bottom */
+    left: 0; /* Align to the left */
+    width: 100%; /* Full width */
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow for better separation */
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margin */
+    font-size: 0.9rem; /* Slightly smaller font size */
+  }
+  
